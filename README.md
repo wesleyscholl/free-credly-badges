@@ -3,7 +3,8 @@
 ![](https://images.zapnito.com/users/568411/posters/1660831680-42-9808/d4c45d8e-a516-4338-bebb-1fb409d0593e_large.png)
 
 A curated list of free Credly badges (No cost - For everyone)
-
+<br>
+<br>
 
 ## List of badges
 
