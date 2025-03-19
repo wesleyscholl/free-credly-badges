@@ -11,6 +11,7 @@ A curated list of free Credly badges (No cost - For everyone)
 <!--END_SECTION:badges-->
 <br>
 <br>
+    
 ##
 
 ![](https://novoed.com/wp-content/uploads/2022/11/Credly-Logo-Web-Card.png)
