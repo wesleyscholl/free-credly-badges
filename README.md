@@ -22,7 +22,7 @@ A curated list of free Credly badges (No cost - For everyone)
 | [AttackIQ](#attackiq) | ✅ |
 | [Certiprof](#certiprof) | ✅ |
 | [Cisco](#cisco) | ✅ |
-| ![](https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png)<br>[CompTIA](#comptia) | ✅ |
+| <img src="https://images.credly.com/size/400x400/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="200" /><br>[CompTIA](#comptia) | ✅ |
 | [Data Protocol](#data-protocol) | ✅ |
 | [Google Cloud](#google-cloud) | ✅ |
 | [IBM](#ibm) | ✅ |
