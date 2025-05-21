@@ -1,6 +1,5 @@
 # Free Credly Badges
 
-![](https://www.credly.com/org/comptia)
 
 ![](https://images.zapnito.com/users/568411/posters/1660831680-42-9808/d4c45d8e-a516-4338-bebb-1fb409d0593e_large.png)
 
@@ -23,7 +22,8 @@ A curated list of free Credly badges (No cost - For everyone)
 | [AttackIQ](#attackiq) | ✅ |
 | [Certiprof](#certiprof) | ✅ |
 | [Cisco](#cisco) | ✅ |
-| [CompTIA](#comptia) | ✅ |
+| ![](https://images.credly.com/size/400x400/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png)
+<br>[CompTIA](#comptia) | ✅ |
 | [Data Protocol](#data-protocol) | ✅ |
 | [Google Cloud](#google-cloud) | ✅ |
 | [IBM](#ibm) | ✅ |
